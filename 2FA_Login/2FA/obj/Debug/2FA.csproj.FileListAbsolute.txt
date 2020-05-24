@@ -1,0 +1,15 @@
+D:\University\For\2FA\2FA\bin\Debug\2FA.exe
+D:\University\For\2FA\2FA\bin\Debug\2FA.pdb
+D:\University\For\2FA\2FA\obj\Debug\2FA.csprojAssemblyReference.cache
+D:\University\For\2FA\2FA\obj\Debug\MainWindow.g.cs
+D:\University\For\2FA\2FA\obj\Debug\App.g.cs
+D:\University\For\2FA\2FA\obj\Debug\2FA_MarkupCompile.cache
+D:\University\For\2FA\2FA\obj\Debug\2FA_MarkupCompile.lref
+D:\University\For\2FA\2FA\obj\Debug\MainWindow.baml
+D:\University\For\2FA\2FA\obj\Debug\2FA.g.resources
+D:\University\For\2FA\2FA\obj\Debug\_2FA.Properties.Resources.resources
+D:\University\For\2FA\2FA\obj\Debug\2FA.csproj.GenerateResource.cache
+D:\University\For\2FA\2FA\obj\Debug\2FA.csproj.CoreCompileInputs.cache
+D:\University\For\2FA\2FA\obj\Debug\2FA.exe
+D:\University\For\2FA\2FA\obj\Debug\2FA.pdb
+D:\University\For\2FA\2FA\bin\Debug\2FA.exe.config

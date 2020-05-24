@@ -1,0 +1,15 @@
+D:\University\For\2FA\2FA\bin\Release\2FA_Login.exe.config
+D:\University\For\2FA\2FA\bin\Release\2FA_Login.exe
+D:\University\For\2FA\2FA\bin\Release\2FA_Login.pdb
+D:\University\For\2FA\2FA\obj\Release\2FA_Login.csprojAssemblyReference.cache
+D:\University\For\2FA\2FA\obj\Release\MainWindow.g.cs
+D:\University\For\2FA\2FA\obj\Release\App.g.cs
+D:\University\For\2FA\2FA\obj\Release\2FA_Login_MarkupCompile.cache
+D:\University\For\2FA\2FA\obj\Release\2FA_Login_MarkupCompile.lref
+D:\University\For\2FA\2FA\obj\Release\MainWindow.baml
+D:\University\For\2FA\2FA\obj\Release\2FA_Login.g.resources
+D:\University\For\2FA\2FA\obj\Release\_2FA.Properties.Resources.resources
+D:\University\For\2FA\2FA\obj\Release\2FA_Login.csproj.GenerateResource.cache
+D:\University\For\2FA\2FA\obj\Release\2FA_Login.csproj.CoreCompileInputs.cache
+D:\University\For\2FA\2FA\obj\Release\2FA_Login.exe
+D:\University\For\2FA\2FA\obj\Release\2FA_Login.pdb

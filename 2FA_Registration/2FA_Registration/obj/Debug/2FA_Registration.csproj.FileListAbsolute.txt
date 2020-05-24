@@ -1,0 +1,14 @@
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\MainWindow.g.cs
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\App.g.cs
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\2FA_Registration_MarkupCompile.cache
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\2FA_Registration_MarkupCompile.lref
+D:\University\For\2FA_Registration\2FA_Registration\bin\Debug\2FA_Registration.exe
+D:\University\For\2FA_Registration\2FA_Registration\bin\Debug\2FA_Registration.pdb
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\MainWindow.baml
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\2FA_Registration.g.resources
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\_2FA_Registration.Properties.Resources.resources
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\2FA_Registration.csproj.GenerateResource.cache
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\2FA_Registration.csproj.CoreCompileInputs.cache
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\2FA_Registration.exe
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\2FA_Registration.pdb
+D:\University\For\2FA_Registration\2FA_Registration\obj\Debug\2FA_Registration.csprojAssemblyReference.cache
